@@ -1,0 +1,2 @@
+2024-01-08 17:11:27 - test_func() -> 'NoneType' object has no attribute 'keys'
+2024-01-08 17:11:57 - div_round(24, 7, digits = 2) -> 3.43
